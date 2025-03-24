@@ -9,7 +9,7 @@
 
 <h1> Cabeçalho HTML README</h>
 
-<h6 align="center"> Utilizar # ou tag do HTML.</h6>
+<h6 align="center"> Utilizar # ou tag do HTML!</h6>
 <p> Quanto mais # utilizar em .MD menor a fonte será. Quanto menos maior será.<p>
 
 <h2>Descrição do Projeto </h2>
