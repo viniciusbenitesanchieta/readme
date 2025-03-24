@@ -17,7 +17,62 @@
 
 <h2> Tabela de Conteúdo</h2>
 <ul id="menu" align="left">
-   <li><a href=""> Descrição do Projeto</a></li>
+   <li><a href="#Status"> Status do Projeto</a></li>
+   <li><a href="#Features">  Features </a> </li>
+   <li><a href="#Pré-Requisitos">  Pré-Requisitos </a></li>
+   <li><a href="#Editando a documentação"> Editando a documentação </a></li>
+   <li><a href="#Mapa do Projeto">  Mapa do Projeto </a></li>
+   <li><a href="#Tecnologias-Utilizada"> Tecnologias Utilizadas </a></li>
 </ul>
 
+<h2 id="Status"> Status do Projeto </h2>
 
+<h4 align="center">  
+Em construção :rocket:
+</h4> 
+
+<h2 id="Features"> Features</h2>
+
+- [X] Teamplete de Readme
+- [ ] Exemplos de uso Badges
+
+<h2 id="Pré-Requisitos">Pré-Requisitos </h2>
+
+- Instalação do [VSCode](https://code.visualstudio.com/)
+- Instalção do [Git](https://git-scm.com/)
+- Conhecimento de sintaxes markdown
+- Conhcimentos de sintaxes hmtl
+
+<h2 id="Editando a documentação">Editando a documentação </h2>
+
+````bash
+  # Clone do repositório
+  $ git clone <path-respositorio>
+
+  # Entrar na pasta do repositório
+  $ cd <path-repositorio>
+
+  # Abri Vscode no path
+  $ code .
+  
+  # Para clonar o repósitorio da main
+  $ git clone <link do repositório>
+
+````
+
+<h2 id="Mapa do Projeto"> Mapa do Projeto </h2>
+
+````bash
++---img           //Pasta com Imagens
++---tempo         //Pasta temp para geração tree  
+    +---temp-2    //Pasta temp para geração tree
+    +---temp-3    //Pasta temp para geração tree
+
+````
+
+<h2 id="Tecnologias-Utilizada"> Tecnologias Utilizadas </h2>
+
+<P> As seguintes tecnologias foram utilizadas pra desenvolver este README: <P>
+
+- [Markdown](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [HTML](https://www.markdownguide.org/)
